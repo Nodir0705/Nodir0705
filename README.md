@@ -1,7 +1,7 @@
 ### Nodirbek Makhtumov
 
-AI/ML engineer at Netvision Telecom, Daejeon. I build computer vision that has to
-run on edge hardware — NVIDIA Jetson, Hailo NPU, Raspberry Pi, Android tablets.
+AI/ML engineer building production computer vision for edge hardware — training the
+models, then making them run on NVIDIA Jetson, Hailo NPU, Raspberry Pi and Android.
 
 **Languages**
 
