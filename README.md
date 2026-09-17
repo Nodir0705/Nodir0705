@@ -1,7 +1,8 @@
 ### Nodirbek Makhtumov
 
-AI/ML engineer building production computer vision for edge hardware — training the
-models, then making them run on NVIDIA Jetson, Hailo NPU, Raspberry Pi and Android.
+AI/ML engineer building production computer vision for embedded devices — training the
+models, then pruning and quantizing them until they run in real time on NVIDIA Jetson,
+Hailo NPU, Raspberry Pi and Android.
 
 **Languages**
 
