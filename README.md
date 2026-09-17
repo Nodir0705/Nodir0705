@@ -38,5 +38,3 @@ run on edge hardware — NVIDIA Jetson, Hailo NPU, Raspberry Pi, Android tablets
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-Korean · English · Russian. E-7 visa, based in Korea.
