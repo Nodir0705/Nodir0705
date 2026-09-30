@@ -10,6 +10,6 @@ Portfolio: [nodir0705.github.io](https://nodir0705.github.io) · Resume: [PDF](h
 - [malware_classifier](https://github.com/Nodir0705/malware_classifier) - a study of how robust malware classifiers are against adversarial attacks
 - [iot-gateway-security](https://github.com/Nodir0705/iot-gateway-security) - IoT security gateway on an Orange Pi 5: eBPF filtering, Suricata, NPU anomaly detection and automatic quarantine
 
-**Stack:** Python, C++, PyTorch, TensorFlow, OpenCV, YOLO, TensorRT, ONNX, Hailo, NVIDIA Jetson, Raspberry Pi, Docker, FastAPI, PostgreSQL, Linux
+**Stack:** Python, C++, PyTorch, TensorFlow, OpenCV, YOLO, TensorRT, ONNX, NPU (Hailo-8, RK3588), NVIDIA Jetson, Raspberry Pi, Docker, FastAPI, PostgreSQL, Linux
 
 **Contact:** [stark.developer2877@gmail.com](mailto:stark.developer2877@gmail.com) · [LinkedIn](https://linkedin.com/in/nodirbek-makhtumov-03084a194)
