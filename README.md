@@ -1,41 +1,15 @@
 ### Nodirbek Makhtumov
 
-AI/ML engineer building production computer vision for embedded devices — training the
-models, then pruning and quantizing them until they run in real time on NVIDIA Jetson,
-Hailo NPU, Raspberry Pi and Android.
+AI/ML engineer in Daejeon, Korea. I build ML that runs on real hardware: computer vision on Jetsons and NPUs, RAG on local LLMs, and network security on edge devices.
 
-**Languages**
+Portfolio: [nodir0705.github.io](https://nodir0705.github.io) · Resume: [PDF](https://nodir0705.github.io/assets/Nodirbek_Makhtumov_Resume.pdf)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Selected work**
 
-**Deep learning & vision**
+- [face-recognition](https://github.com/Nodir0705/face-recognition) - face recognition pipeline in Python and C++; 48 ms per face on CPU, 5.59 ms on a Hailo-8 NPU (Raspberry Pi 5)
+- [malware_classifier](https://github.com/Nodir0705/malware_classifier) - a study of how robust malware classifiers are against adversarial attacks
+- [depthai-spatial-measurement](https://github.com/Nodir0705/depthai-spatial-measurement) - measures how full a box is with an OAK-D depth camera
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO%20%2F%20Ultralytics-111F68?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Stack:** Python, C++, PyTorch, TensorFlow, OpenCV, YOLO, TensorRT, ONNX, Hailo, NVIDIA Jetson, Raspberry Pi, Docker, FastAPI, PostgreSQL, Linux
 
-**Edge & optimization**
-
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Hailo](https://img.shields.io/badge/Hailo--8%20NPU-0F62FE?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Quantization](https://img.shields.io/badge/Quantization%20%C2%B7%20Pruning-444444?style=flat-square)
-
-**Serving & infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Contact:** [stark.developer2877@gmail.com](mailto:stark.developer2877@gmail.com) · [LinkedIn](https://linkedin.com/in/nodirbek-makhtumov-03084a194)
