@@ -8,7 +8,7 @@ Portfolio: [nodir0705.github.io](https://nodir0705.github.io) · Resume: [PDF](h
 
 - [face-recognition](https://github.com/Nodir0705/face-recognition) - face recognition pipeline in Python and C++; 48 ms per face on CPU, 5.59 ms on a Hailo-8 NPU (Raspberry Pi 5)
 - [malware_classifier](https://github.com/Nodir0705/malware_classifier) - a study of how robust malware classifiers are against adversarial attacks
-- [depthai-spatial-measurement](https://github.com/Nodir0705/depthai-spatial-measurement) - measures how full a box is with an OAK-D depth camera
+- [iot-gateway-security](https://github.com/Nodir0705/iot-gateway-security) - IoT security gateway on an Orange Pi 5: eBPF filtering, Suricata, NPU anomaly detection and automatic quarantine
 
 **Stack:** Python, C++, PyTorch, TensorFlow, OpenCV, YOLO, TensorRT, ONNX, Hailo, NVIDIA Jetson, Raspberry Pi, Docker, FastAPI, PostgreSQL, Linux
 
