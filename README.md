@@ -13,4 +13,3 @@ Portfolio: [nodir0705.github.io](https://nodir0705.github.io) · Resume: [PDF](h
 
 **Stack:** Python, C++, PyTorch, TensorFlow, OpenCV, YOLO, TensorRT, ONNX, NPU (Hailo-8, RK3588), NVIDIA Jetson, Raspberry Pi, Docker, FastAPI, PostgreSQL, Linux
 
-**Contact:** [stark.developer2877@gmail.com](mailto:stark.developer2877@gmail.com) · [LinkedIn](https://linkedin.com/in/nodirbek-makhtumov-03084a194)
